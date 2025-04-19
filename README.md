@@ -1,4 +1,4 @@
-# 🐚 Shell Scripting Projects
+# Shell Scripting Projects
 
 This repository contains various **Shell Scripting** projects and mini tools written in **Bash**.  
 The scripts in this repo aim to automate tasks, manage systems, and simplify DevOps workflows.
